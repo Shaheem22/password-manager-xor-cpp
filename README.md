@@ -14,7 +14,7 @@ XOR is not secure cryptography. This project is for learning file handling + bas
 ## Build & Run
 
 ```bash
-g++ -std=c++17 -O2 -o password_manager src/main.cpp
+g++ -std=c++17 -O2 -o password_manager src/password_manager.cpp
 ./password_manager
 ```
 
